@@ -1,5 +1,5 @@
 package: community.lazycat.app.code-server
-version: 4.104.2
+version: 4.143.1
 name: code-server
 description: VS Code in the browser - run VS Code on your NAS and access it from any device
 min_os_version: "1.5.0"
