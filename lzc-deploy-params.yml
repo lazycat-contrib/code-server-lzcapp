@@ -1,0 +1,13 @@
+params:
+  - id: login_password
+    type: secret
+    name: "Login Password"
+    description: "code-server web UI password (auto-generated)"
+    default_value: "$random(len=20)"
+    optional: true
+
+locales:
+  zh:
+    login_password:
+      name: "登录密码"
+      description: "code-server 网页登录密码（自动生成）"

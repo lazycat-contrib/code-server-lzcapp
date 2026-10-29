@@ -1,0 +1,18 @@
+package: community.lazycat.app.code-server
+version: 4.104.2
+name: code-server
+description: VS Code in the browser - run VS Code on your NAS and access it from any device
+min_os_version: "1.5.0"
+homepage: https://github.com/coder/code-server
+author: coder
+license: MIT
+permissions:
+  required:
+    - net.internet
+locales:
+  zh:
+    name: code-server
+    description: 浏览器里的 VS Code：在微服上运行完整 VS Code，任何设备打开网页即可写代码
+  en:
+    name: code-server
+    description: VS Code in the browser - run VS Code on your NAS and access it from any device
